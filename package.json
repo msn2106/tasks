@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  },
+  "name": "tasks",
+  "description": "TO DO List build using NodeJS, ExpressJS and EJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msn2106/tasks.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ejs",
+    "express",
+    "todo",
+    "todolist",
+    "routes",
+    "controllers"
+  ],
+  "author": "Mayank Singh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/msn2106/tasks/issues"
+  },
+  "homepage": "https://github.com/msn2106/tasks#readme"
+}
